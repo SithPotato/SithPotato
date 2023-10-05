@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SithPotato
+- 👋 Hi, I’m Gabriel 
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently learning computer Sience
 - 💞️ I’m looking to collaborate on ...
