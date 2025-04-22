@@ -1,6 +1,7 @@
 I'm currently a second-year Computer Science student, on my way to my third year. I'm actively looking to grow as a developer and gain hands-on industry experience.
 
 🌱 About Me
+
 🎓 Pursuing a Bachelor's degree in Computer Science
 
 💻 Working on improving my skills in software engineering languages and tools
