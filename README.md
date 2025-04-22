@@ -1,31 +1,33 @@
-I'm currently a second-year Computer Science student, on my way to my third year. I'm actively looking to grow as a developer and gain hands-on industry experience.
+👋 About Me
 
-🌱 About Me
+I’m currently a second-year Computer Science student, soon entering my third year. I’m passionate about software development and actively seeking opportunities to gain hands-on experience and grow as a developer.
 
-🎓 Pursuing a Bachelor's degree in Computer Science
+🎓 Education
+Bachelor’s Degree in Computer Science (in progress)
 
-💻 Working on improving my skills in software engineering languages and tools
+💻 Technical Focus
+Improving my skills in software engineering with a focus on Python, HTML, and CSS. My repositories include academic projects and personal experiments to reinforce my learning.
 
-📁 Repositories include projects and assignments from my college courses
-
-🧠 Always learning and exploring new technologies
+🚀 Always Learning
+Exploring new technologies, tools, and best practices to become a proficient full stack developer.
 
 🎯 Goals
 
-Get better at writing clean, efficient code
+Write clean, efficient, and maintainable code
 
-Contribute to open-source or team projects
+Contribute to open-source or collaborative team projects
 
-⚡ Hobbies
+Gain real-world development experience
 
-🏋️‍♂️ Working out
+⚡ Interests
 
-💻 Coding
+🏋️‍♂️ Fitness and working out
 
-🎮 Playing video games
+💻 Programming and building projects
 
-Feel free to check out my repos and follow along on my journey!
+🎮 Gaming in my downtime
 
+Feel free to explore my repositories and follow along on my journey into full stack development!
 
 
 
