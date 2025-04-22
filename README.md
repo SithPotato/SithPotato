@@ -16,6 +16,7 @@ Get better at writing clean, efficient code
 Contribute to open-source or team projects
 
 ⚡ Hobbies
+
 🏋️‍♂️ Working out
 
 💻 Coding
